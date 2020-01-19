@@ -17,7 +17,8 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-Hash[ object ] → new_hashend
+Hash[ object ] → new_hash
+end
 # return a hash that includes the key and value parameters passed into this method
 
 
